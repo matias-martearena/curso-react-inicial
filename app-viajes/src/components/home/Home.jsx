@@ -1,6 +1,7 @@
 import './home.css'
 import Header from '../header/Header'
-
+import Footer from '../footer/Footer'
+ 
 const Home = () => {
     return (
         <section>
@@ -10,9 +11,9 @@ const Home = () => {
                 <div className="hero"></div>
             </main>
             {/* About */}
-            {/* Footer */}
+            <Footer />
         </section>
     )
 }
-
+ 
 export default Home
