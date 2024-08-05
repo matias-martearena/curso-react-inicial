@@ -4,6 +4,9 @@ const Header = () => {
     return (
         <header>
             <nav>
+                <picture>
+                    <img src="/luggage.svg" alt="logo" />
+                </picture>
                 <ul>
                     <li>
                         <a href="/">Home</a>

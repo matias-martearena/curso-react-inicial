@@ -1,19 +1,19 @@
 ### Componentes requeridos
 
--   []: Header:
+-   [x]: Header:
 
     -   [x]: Crear la ul con los li y a que contendran la navegacion de la pagina.
     -   [x]: Vincular y crear el enrutado
 
--   []: Footer:
+-   [x]: Footer:
 
-    -   []: Crear el footer
+    -   [x]: Crear el footer
 
 -   []: CityList
 
     -   []: Crear el componente
     -   []: Titulo de la pagina
-    -   []: Estructurar la pagina para que muestre: titulo, hero, descrpcion, integrantes, header, footer y listado de las cuidades.
+    -   []: Estructurar la pagina para que muestre: titulo, descrpcion, integrantes, header, footer y listado de las cuidades.
     -   []: Pasarle al componente una prop que es un arreglo de objetos
     -   []: Dentro del componente en un bucle iterar sobre el arreglo para mostrar el titulo de las cuidades en un link
     -   []: Enrutar los links para que te redireccionen a la pagina de la cuidad especifica
