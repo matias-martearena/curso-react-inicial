@@ -111,5 +111,85 @@
             }                     
             
         ]
+    },
+    {
+        "id": 3,
+        "nombre": "Mendoza",
+        "descripcion": "Mendoza es una ciudad de la región de Cuyo en Argentina y es el corazón de la zona vitivinícola argentina, famosa por sus Malbecs y otros vinos tintos.",
+        "imagenes": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/1e/e3/00/1ee300212b3f0820ba2f671407121199.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/b0/ce/4b/b0ce4b5d9bd4c6bf5b65d8fa52381958.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/93/ed/ba/93edba586b797efca7e8ea6ba1d18c9c.jpg"
+            }
+        ],
+        "puntosInteres": [
+            {
+                "id": 0,
+                "nombre": "Parque San Martín",
+                "descripcion": "FParque General San Martín es el parque más antiguo y el principal de la Provincia de Mendoza.",
+                "url": "https://i.pinimg.com/736x/5e/a9/12/5ea9127fb89bef2dfd6ed81184070843.jpg"
+            },
+            {
+                "id": 1,
+                "nombre": "Calle Arístides",
+                "descripcion": "La calle Arístides es uno de los puntos más conocidos y visitados en Mendoza.",
+                "url": "https://i.pinimg.com/564x/8c/c3/35/8cc335b23f36bc38b063e895f40e8af6.jpg"
+            }
+        ],
+        "comentarios": [
+            {
+                "id": 0,
+                "comentario": "Lago de Parque San Martin"
+            }                     
+            
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Santa Rosa de Calamuchita",
+        "descripcion": "Cosquín es una ciudad del oeste de la provincia de Córdoba, Argentina, en pleno Valle de Punilla",
+        "imagenes": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/19/c2/77/19c277ab9fa11c9086943b5804c30f4c.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/fe/20/7d/fe207df278ee6b80b87cb4fda942b67a.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/736x/b2/b9/27/b2b927f4060ed9e68b9a328f1ae356ca.jpg"
+            }
+        ],
+        "puntosInteres": [
+            {
+                "id": 0,
+                "nombre": "Escalera de los Inmigrantes",
+                "descripcion": "La escalera, que nació como un atajo que permitía comunicar el centro con las zonas altas del pueblo; con la llegada de otros pobladores fue adquiriendo una nueva identidad que se asoció a la familia Trucchi, quienes sobre su senda construyeron una hostería. .",
+                "url": "https://i.pinimg.com/564x/38/3b/18/383b1821b8c5b6149abc545cf68a8d68.jpg"
+            },
+            {
+                "id": 1,
+                "nombre": "Río Santa Rosa",
+                "descripcion": "En el paisaje destaca el límpido río Santa Rosa (uno de los principales afluentes del Ctalamochita)",
+                "url": "https://i.pinimg.com/564x/cd/db/da/cddbda9a1e4e66d791ae068673aea844.jpg"
+            }
+        ],
+        "comentarios": [
+            {
+                "id": 0,
+                "comentario": "Lago de Parque San Martin"
+            }                     
+            
+        ]
     }
 ]
