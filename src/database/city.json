@@ -34,35 +34,42 @@
     },
     {
         "id": 1,
-        "nombre": "San Salvador de Jujuy",
-        "descripcion": "San Salvador de Jujuy es una ciudad del norte de Argentina, cabecera del departamento Doctor Manuel Belgrano y capital y ciudad más poblada de la provincia de Jujuy. Llamada popularmente 'Tacita de Plata', se encuentra ubicada en un fértil valle, en la confluencia de los ríos Grande y Xibi Xibi, rodeada de montañas que, hacia el oeste, en invierno, suelen estar cubiertas de nieve.",
+        "nombre": "Río Cuarto",
+        "descripcion": "Río Cuarto es una ciudad situada en la provincia de Córdoba, Argentina. Es conocida por ser un importante centro agrícola y comercial de la región.El Río Cuarto, que atraviesa la ciudad, le da su nombre y es un punto natural de referencia y recreación.Río Cuarto es también un centro educativo y cultural, con varias universidades e instituciones que atraen a estudiantes de diferentes partes del país.",
         "imagenes": [
             {
                 "id": 0,
-                "url": "https://i.pinimg.com/564x/88/8d/ba/888dbac63e1a9173da758354f4adaea2.jpg"
+                "url": "https://i.pinimg.com/564x/9d/c4/13/9dc41325846ed3980c87a3e535d9102c.jpg"
             },
             {
                 "id": 1,
-                "url": "https://i.pinimg.com/564x/ae/41/c6/ae41c6329b36dc46baef009232f3a4a2.jpg"
+                "url": "https://i.pinimg.com/564x/b9/b2/72/b9b272b7483943707bdc588ed6dcf642.jpg"
             },
             {
                 "id": 2,
-                "url": "https://i.pinimg.com/564x/12/a8/9c/12a89c2d101c8c70aebd1fd93a768a57.jpg"
+                "url": "https://i.pinimg.com/564x/40/25/ba/4025ba0361e3bb2a9a9cad060347b436.jpg"
             }
         ],
         "puntosInteres": [
             {
                 "id": 0,
-                "nombre": "Parque Xibi Xibi",
-                "descripcion": "Parque a las horillas del rio xibi xibi",
-                "url": "https://i.pinimg.com/564x/9e/e9/10/9ee910f7ee76515f8c314710fc850e11.jpg"
+                "nombre": "Parque Sarmiento",
+                "descripcion": "Entorno natural para el esparcimiento y la recreación.",
+                "url": "https://i.pinimg.com/564x/43/69/04/436904b3590dad180c91a7f5e8aeacfc.jpg"
             },
             {
                 "id": 1,
-                "nombre": "Catedral de San Salvador de Jujuy",
-                "descripcion": "Catedral central de san salvador de jujuy",
-                "url": "https://i.pinimg.com/564x/ae/41/c6/ae41c6329b36dc46baef009232f3a4a2.jpg"
+                "nombre": "Río Cuarto",
+                "descripcion": "También se le denomina Río Chocancharava",
+                "url": "https://i.pinimg.com/564x/23/b9/27/23b927513bcb7ae19ce542c88f5ae923.jpg"
             }
+        ],
+        "comentarios": [
+            {
+                "id": 0,
+                "comentario": "Parque Sarmiento"
+            }                     
+            
         ]
     }
 ]
