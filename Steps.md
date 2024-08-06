@@ -9,21 +9,21 @@
 
     -   [x]: Crear el footer
 
--   []: CityList
+-   [x]: CityList
 
-    -   []: Crear el componente
-    -   []: Titulo de la pagina
-    -   []: Estructurar la pagina para que muestre: titulo, descrpcion, integrantes, header, footer y listado de las cuidades.
-    -   []: Pasarle al componente una prop que es un arreglo de objetos
-    -   []: Dentro del componente en un bucle iterar sobre el arreglo para mostrar el titulo de las cuidades en un link
-    -   []: Enrutar los links para que te redireccionen a la pagina de la cuidad especifica
+    -   [x]: Crear el componente
+    -   [x]: Titulo de la pagina
+    -   [x]: Estructurar la pagina para que muestre el listado de las cuidades con: titulo, descripcion. El header y footer.
+    -   [x]: Pasarle al componente una prop que es un arreglo de objetos.
+    -   [x]: Dentro del componente en un bucle iterar sobre el arreglo para mostrar el titulo de las cuidades en un link.
+    -   [x]: Enrutar los links para que te redireccionen a la pagina de la cuidad especifica.
 
 -   []: CityItem:
 
-    -   []: Crear el componente
-    -   []: Pasar por props el arreglo de objetos
-    -   []: Filtrar el arreglo de objetos en una variable con el id de la cuidad seleccionada
-    -   []: Renderizar el componente pasandole por props los datos de la cuidad
+    -   [x]: Crear el componente
+    -   [x]: Pasar por props el arreglo de objetos
+    -   [x]: Filtrar el arreglo de objetos en una variable con el id de la cuidad seleccionada
+    -   [x]: Renderizar el componente pasandole por props los datos de la cuidad
+    -   [x]: Incluir el header y el footer
     -   []: Incluir un formulario para agregar un comentario sobre la cuidad, este comentario debe estar inclulado a una key "comentario" que contiene un arreglo de comentarios con ids.
     -   []: Renderizar la lista de comentarios al final de la pagina pero antes del footer en un section
-    -   []: Incluir el header y el footer

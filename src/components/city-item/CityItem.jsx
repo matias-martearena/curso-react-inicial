@@ -1,5 +1,7 @@
 import PropTypes from 'prop-types'
 import { useParams } from 'react-router-dom'
+import Header from '../header/Header'
+import Footer from '../footer/Footer'
 import './cityItem.css'
 
 const CityItem = ({ arrCity }) => {
@@ -8,6 +10,7 @@ const CityItem = ({ arrCity }) => {
 
     return (
         <section>
+            <Header />
             {city.map(city => (
                 <div key={city.id}>
                     <h1>{city.nombre}</h1>
@@ -29,6 +32,7 @@ const CityItem = ({ arrCity }) => {
                     </picture>
                 </div>
             ))}
+            <Footer />
         </section>
     )
 }

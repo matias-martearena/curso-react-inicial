@@ -14,6 +14,7 @@ const CityList = ({ arrCity }) => {
                 {arrCity.map(city => (
                     <li key={city.id}>
                         <Link to={`/city-list/${city.id}`}>{city.nombre}</Link>
+                        <p>{city.descripcion}</p>
                     </li>
                 ))}
             </ul>

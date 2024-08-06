@@ -31,5 +31,38 @@
                 "url": "https://i.pinimg.com/564x/ae/41/c6/ae41c6329b36dc46baef009232f3a4a2.jpg"
             }
         ]
+    },
+    {
+        "id": 1,
+        "nombre": "San Salvador de Jujuy",
+        "descripcion": "San Salvador de Jujuy es una ciudad del norte de Argentina, cabecera del departamento Doctor Manuel Belgrano y capital y ciudad más poblada de la provincia de Jujuy. Llamada popularmente 'Tacita de Plata', se encuentra ubicada en un fértil valle, en la confluencia de los ríos Grande y Xibi Xibi, rodeada de montañas que, hacia el oeste, en invierno, suelen estar cubiertas de nieve.",
+        "imagenes": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/88/8d/ba/888dbac63e1a9173da758354f4adaea2.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/ae/41/c6/ae41c6329b36dc46baef009232f3a4a2.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/12/a8/9c/12a89c2d101c8c70aebd1fd93a768a57.jpg"
+            }
+        ],
+        "puntosInteres": [
+            {
+                "id": 0,
+                "nombre": "Parque Xibi Xibi",
+                "descripcion": "Parque a las horillas del rio xibi xibi",
+                "url": "https://i.pinimg.com/564x/9e/e9/10/9ee910f7ee76515f8c314710fc850e11.jpg"
+            },
+            {
+                "id": 1,
+                "nombre": "Catedral de San Salvador de Jujuy",
+                "descripcion": "Catedral central de san salvador de jujuy",
+                "url": "https://i.pinimg.com/564x/ae/41/c6/ae41c6329b36dc46baef009232f3a4a2.jpg"
+            }
+        ]
     }
 ]
