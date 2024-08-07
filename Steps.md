@@ -26,4 +26,4 @@
     -   [x]: Renderizar el componente pasandole por props los datos de la cuidad
     -   [x]: Incluir el header y el footer
     -   []: Incluir un formulario para agregar un comentario sobre la cuidad, este comentario debe estar inclulado a una key "comentario" que contiene un arreglo de comentarios con ids.
-    -   []: Renderizar la lista de comentarios al final de la pagina pero antes del footer en un section
+    -   []: Renderizar la lista de comentarios
