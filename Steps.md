@@ -25,5 +25,6 @@
     -   [x]: Filtrar el arreglo de objetos en una variable con el id de la cuidad seleccionada
     -   [x]: Renderizar el componente pasandole por props los datos de la cuidad
     -   [x]: Incluir el header y el footer
-    -   []: Incluir un formulario para agregar un comentario sobre la cuidad, este comentario debe estar inclulado a una key "comentario" que contiene un arreglo de comentarios con ids.
-    -   []: Renderizar la lista de comentarios
+    -   [x]: Incluir un formulario para agregar un comentario sobre la cuidad, este comentario debe estar inclulado a una key "comentario" que contiene un arreglo de comentarios con ids.
+    -   [x]: Renderizar la lista de comentarios
+    -   []: Agregar persistencia de datos sin modificar el arreglo principal

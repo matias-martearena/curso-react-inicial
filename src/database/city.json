@@ -30,6 +30,16 @@
                 "descripcion": "Catedral central de san salvador de jujuy",
                 "url": "https://i.pinimg.com/564x/ae/41/c6/ae41c6329b36dc46baef009232f3a4a2.jpg"
             }
+        ],
+        "comentarios": [
+            {
+                "id": 0,
+                "comentario": "Que linda cuidad!!"
+            },
+            {
+                "id": 1,
+                "comentario": "Faltaba limpieza :p"
+            }
         ]
     },
     {
@@ -68,8 +78,7 @@
             {
                 "id": 0,
                 "comentario": "Parque Sarmiento"
-            }                     
-            
+            }
         ]
     },
     {
@@ -108,8 +117,7 @@
             {
                 "id": 0,
                 "comentario": "Fiesta de la cerveza"
-            }                     
-            
+            }
         ]
     },
     {
@@ -148,8 +156,7 @@
             {
                 "id": 0,
                 "comentario": "Lago de Parque San Martin"
-            }                     
-            
+            }
         ]
     },
     {
@@ -188,8 +195,7 @@
             {
                 "id": 0,
                 "comentario": "Lago de Parque San Martin"
-            }                     
-            
+            }
         ]
     }
 ]

@@ -1,8 +1,8 @@
 import PropTypes from 'prop-types'
 import { useParams } from 'react-router-dom'
 import Header from '../header/Header'
-import CommentForm from '../comment/FormComments'
 import Footer from '../footer/Footer'
+import FormComments from '../comment/FormComments'
 import './cityItem.css'
 
 const CityItem = ({ arrCity }) => {
@@ -31,10 +31,14 @@ const CityItem = ({ arrCity }) => {
                             </article>
                         ))}
                     </picture>
-                    {/* // TODO: Agregar una lista de comentarios */}
+                    <ul>
+                        {city.comentarios.map(comentario => (
+                            <li key={comentario.id}>{comentario.comentario}</li>
+                        ))}
+                    </ul>
                 </div>
             ))}
-            <CommentForm ciudad={city} />
+            <FormComments />
             <Footer />
         </section>
     )

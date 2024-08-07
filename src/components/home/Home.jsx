@@ -1,7 +1,7 @@
 import './home.css'
 import Header from '../header/Header'
 import Footer from '../footer/Footer'
- 
+
 const Home = () => {
     return (
         <section>
@@ -15,5 +15,5 @@ const Home = () => {
         </section>
     )
 }
- 
+
 export default Home
