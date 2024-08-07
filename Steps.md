@@ -29,11 +29,11 @@
     -   [x]: Renderizar la lista de comentarios
     -   [x]: Agregar persistencia de datos sin modificar el arreglo principal (se uso localStorage)
 
--   []: About:
+-   [x]: About:
 
-    -   []: Crear el componente
-    -   []: Incluir fotos y una breve descripcion del equipo (pueden ser avatares)
-    -   []: Incluir informacion sobre la pagina, partes, como recorrer la pagina, que encontraras, proximamente...
+    -   [x]: Crear el componente
+    -   [x]: Incluir fotos y una breve descripcion del equipo (pueden ser avatares)
+    -   [x]: Incluir informacion sobre la pagina, partes, como recorrer la pagina, que encontraras, proximamente...
 
 -   []: Pendientes:
     -   []: Corregir los nombres de los atributos className para que todos sean en ingles

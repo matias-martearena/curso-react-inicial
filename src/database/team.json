@@ -1,0 +1,68 @@
+[
+    {
+        "id": 0,
+        "imagen": "./matias-martearena-avatar.png",
+        "nombres": "Matias",
+        "apellidos": "Martearena",
+        "descripcion": "I am a passionate Front-End Web Developer with a keen eye for design and a strong commitment to creating engaging, user-friendly websites and applications. With expertise in HTML, CSS, JavaScript, and modern frameworks like React, I strive to bring innovative ideas to life.",
+        "stack": [
+            {
+                "id": 0,
+                "nombre": "HTML"
+            },
+            {
+                "id": 1,
+                "nombre": "CSS"
+            },
+            {
+                "id": 2,
+                "nombre": "JavaScript"
+            },
+            {
+                "id": 3,
+                "nombre": "TypeScript"
+            },
+            {
+                "id": 4,
+                "nombre": "React JS"
+            },
+            {
+                "id": 5,
+                "nombre": "Angular JS"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "imagen": "./araceli-escudero-avatar.png",
+        "nombres": "Araceli",
+        "apellidos": "Escudero",
+        "descripcion": "I am a passionate Back-End Web Developer with a deep understanding of server-side technologies and a dedication to building robust, scalable applications. Proficient in languages such as Python, Java, and Node.js, I specialize in creating efficient, secure, and maintainable code.",
+        "stack": [
+            {
+                "id": 0,
+                "nombre": "Python"
+            },
+            {
+                "id": 1,
+                "nombre": "Java"
+            },
+            {
+                "id": 2,
+                "nombre": "JavaScript"
+            },
+            {
+                "id": 3,
+                "nombre": "Django"
+            },
+            {
+                "id": 4,
+                "nombre": "Spring"
+            },
+            {
+                "id": 5,
+                "nombre": "Node.js"
+            }
+        ]
+    }
+]
