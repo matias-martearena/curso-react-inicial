@@ -18,7 +18,7 @@
     -   [x]: Dentro del componente en un bucle iterar sobre el arreglo para mostrar el titulo de las cuidades en un link.
     -   [x]: Enrutar los links para que te redireccionen a la pagina de la cuidad especifica.
 
--   []: CityItem:
+-   [x]: CityItem:
 
     -   [x]: Crear el componente
     -   [x]: Pasar por props el arreglo de objetos
@@ -27,4 +27,17 @@
     -   [x]: Incluir el header y el footer
     -   [x]: Incluir un formulario para agregar un comentario sobre la cuidad, este comentario debe estar inclulado a una key "comentario" que contiene un arreglo de comentarios con ids.
     -   [x]: Renderizar la lista de comentarios
-    -   []: Agregar persistencia de datos sin modificar el arreglo principal
+    -   [x]: Agregar persistencia de datos sin modificar el arreglo principal (se uso localStorage)
+
+-   []: About:
+
+    -   []: Crear el componente
+    -   []: Incluir fotos y una breve descripcion del equipo (pueden ser avatares)
+    -   []: Incluir informacion sobre la pagina, partes, como recorrer la pagina, que encontraras, proximamente...
+
+-   []: Pendientes:
+    -   []: Corregir los nombres de los atributos className para que todos sean en ingles
+    -   []: Modificar la pagina para que todo este en ingles
+    -   []: Modificar los nombres de los componentes y demas para que todo este en ingles
+    -   []: Aplicarle estilo con Tailwind
+    -   []: Aplicarle animaciones con FramerMotion

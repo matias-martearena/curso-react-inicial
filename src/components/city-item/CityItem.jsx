@@ -31,14 +31,9 @@ const CityItem = ({ arrCity }) => {
                             </article>
                         ))}
                     </picture>
-                    <ul>
-                        {city.comentarios.map(comentario => (
-                            <li key={comentario.id}>{comentario.comentario}</li>
-                        ))}
-                    </ul>
                 </div>
             ))}
-            <FormComments />
+            <FormComments ciudad={city} />
             <Footer />
         </section>
     )

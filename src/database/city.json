@@ -39,13 +39,21 @@
             {
                 "id": 1,
                 "comentario": "Faltaba limpieza :p"
+            },
+            {
+                "id": 2,
+                "comentario": "Un lugar muy tranquilo"
+            },
+            {
+                "id": 3,
+                "comentario": "Ideal para pasar con la familia"
             }
         ]
     },
     {
         "id": 1,
         "nombre": "Río Cuarto",
-        "descripcion": "Río Cuarto es una ciudad situada en la provincia de Córdoba, Argentina. Es conocida por ser un importante centro agrícola y comercial de la región.El Río Cuarto, que atraviesa la ciudad, le da su nombre y es un punto natural de referencia y recreación.Río Cuarto es también un centro educativo y cultural, con varias universidades e instituciones que atraen a estudiantes de diferentes partes del país.",
+        "descripcion": "Río Cuarto es una ciudad situada en la provincia de Córdoba, Argentina. Es conocida por ser un importante centro agrícola y comercial de la región. El Río Cuarto, que atraviesa la ciudad, le da su nombre y es un punto natural de referencia y recreación. Río Cuarto es también un centro educativo y cultural, con varias universidades e instituciones que atraen a estudiantes de diferentes partes del país.",
         "imagenes": [
             {
                 "id": 0,
@@ -71,13 +79,25 @@
                 "id": 1,
                 "nombre": "Río Cuarto",
                 "descripcion": "También se le denomina Río Chocancharava",
-                "url": "https://i.pinimg.com/564x/23/b9/27/23b927513bcb7ae19ce542c88f5ae923.jpg" 
+                "url": "https://i.pinimg.com/564x/23/b9/27/23b927513bcb7ae19ce542c88f5ae923.jpg"
             }
         ],
         "comentarios": [
             {
                 "id": 0,
-                "comentario": "Parque Sarmiento"
+                "comentario": "Cuidad tranquila"
+            },
+            {
+                "id": 1,
+                "comentario": "El rio esta mojado!!! jio jio"
+            },
+            {
+                "id": 2,
+                "comentario": "El puente me encanto"
+            },
+            {
+                "id": 3,
+                "comentario": "Visiten el parque sarmiento, es hermoso"
             }
         ]
     },
@@ -117,6 +137,18 @@
             {
                 "id": 0,
                 "comentario": "Fiesta de la cerveza"
+            },
+            {
+                "id": 1,
+                "comentario": "El centro de la ciudad es hermoso"
+            },
+            {
+                "id": 2,
+                "comentario": "La pizza de don cangrejo, es la mejor pizza"
+            },
+            {
+                "id": 3,
+                "comentario": "para ti para miiiii para ti para miiii"
             }
         ]
     },
@@ -142,7 +174,7 @@
             {
                 "id": 0,
                 "nombre": "Parque San Martín",
-                "descripcion": "FParque General San Martín es el parque más antiguo y el principal de la Provincia de Mendoza.",
+                "descripcion": "Parque General San Martín es el parque más antiguo y el principal de la Provincia de Mendoza.",
                 "url": "https://i.pinimg.com/736x/5e/a9/12/5ea9127fb89bef2dfd6ed81184070843.jpg"
             },
             {
@@ -155,7 +187,15 @@
         "comentarios": [
             {
                 "id": 0,
-                "comentario": "Lago de Parque San Martin"
+                "comentario": "La gente es super hospitalaria"
+            },
+            {
+                "id": 1,
+                "comentario": "La ciudad de Mendoza es una de las mejores ciudades de Argentina"
+            },
+            {
+                "id": 2,
+                "comentario": "Tomen vino argentino pa'"
             }
         ]
     },
@@ -194,7 +234,15 @@
         "comentarios": [
             {
                 "id": 0,
-                "comentario": "Lago de Parque San Martin"
+                "comentario": "Totiro tiro ti"
+            },
+            {
+                "id": 1,
+                "comentario": "Me gusta tus ojos tu intensidad"
+            },
+            {
+                "id": 2,
+                "comentario": "Me gusta tocarte sin intencion"
             }
         ]
     }
