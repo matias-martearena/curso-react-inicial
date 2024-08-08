@@ -5,14 +5,14 @@ const Header = () => {
         <header>
             <nav>
                 <picture>
-                    <img src="/luggage.svg" alt="logo" />
+                    <img src="/logo.svg" alt="Travel MA logo" />
                 </picture>
                 <ul>
                     <li>
                         <a href="/">Home</a>
                     </li>
                     <li>
-                        <a href="/city-list">List</a>
+                        <a href="/city-list">List of cities</a>
                     </li>
                 </ul>
             </nav>

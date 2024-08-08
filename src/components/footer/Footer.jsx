@@ -1,5 +1,5 @@
 import './footer.css'
- 
+
 const Footer = () => {
     return (
         <footer className="footer-container">
@@ -61,7 +61,7 @@ const Footer = () => {
             </div>
             <article className="footer-content-container">
                 <div className="footer-content">
-                    <p className="footer-content-title">Travel MA</p>
+                    <h2 className="footer-content-title">Travel MA</h2>
                     <ul className="footer-list">
                         <li>
                             Explore the vibrant cities around the world and see what other users have to say about their experiences. From hidden gems
@@ -77,19 +77,19 @@ const Footer = () => {
                     </ul>
                 </div>
                 <div className="footer-content">
-                    <p className="footer-content-title">Our Page</p>
+                    <h2 className="footer-content-title">Our Page</h2>
                     <ul className="footer-list">
                         {/* Agregar mas rutas aqui */}
                         <li>
                             <a href="/">Home</a>
                         </li>
                         <li>
-                            <a href="/city-list">City List</a>
+                            <a href="/city-list">List of cities</a>
                         </li>
                     </ul>
                 </div>
                 <div className="footer-content">
-                    <p className="footer-content-title">Contact</p>
+                    <h2 className="footer-content-title">Contact</h2>
                     <ul className="footer-list">
                         <li>
                             <i className="fa-solid fa-house"></i>
@@ -110,5 +110,5 @@ const Footer = () => {
         </footer>
     )
 }
- 
+
 export default Footer

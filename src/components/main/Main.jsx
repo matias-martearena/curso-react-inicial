@@ -1,15 +1,19 @@
 import './main.css'
-import team from '../../database/team.json'
+import PropTypes from 'prop-types'
 import About from '../about/About'
-import Us from '../us/Us'
+import Team from '../team/Team'
 
-const Main = () => {
+const Main = ({ team }) => {
     return (
         <main>
             <About />
-            <Us team={team} />
+            <Team team={team} />
         </main>
     )
+}
+
+Main.propTypes = {
+    team: PropTypes.arrayOf(PropTypes.object).isRequired
 }
 
 export default Main

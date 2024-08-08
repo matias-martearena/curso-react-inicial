@@ -1,0 +1,277 @@
+[
+    {
+        "id": 0,
+        "name": "San Salvador de Jujuy",
+        "description": "San Salvador de Jujuy is a city in northern Argentina, the head of the Doctor Manuel Belgrano department, and the capital and most populous city of the Jujuy province. Popularly known as the 'Silver Cup,' it is located in a fertile valley at the confluence of the Grande and Xibi Xibi rivers, surrounded by mountains that, to the west, are often covered in snow during winter.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/88/8d/ba/888dbac63e1a9173da758354f4adaea2.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/ae/41/c6/ae41c6329b36dc46baef009232f3a4a2.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/12/a8/9c/12a89c2d101c8c70aebd1fd93a768a57.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "Parque Xibi Xibi",
+                "description": "Park along the banks of the Xibi Xibi River.",
+                "url": "https://i.pinimg.com/564x/9e/e9/10/9ee910f7ee76515f8c314710fc850e11.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Catedral de San Salvador de Jujuy",
+                "description": "Central cathedral of San Salvador de Jujuy.",
+                "url": "https://i.pinimg.com/564x/ae/41/c6/ae41c6329b36dc46baef009232f3a4a2.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "San Salvador de Jujuy is a gateway to the stunning landscapes of northern Argentina."
+            },
+            {
+                "id": 1,
+                "comment": "The city's vibrant culture and indigenous heritage make it a unique destination."
+            },
+            {
+                "id": 2,
+                "comment": "A perfect starting point for exploring the colorful hills of the Quebrada de Humahuaca."
+            },
+            {
+                "id": 3,
+                "comment": "San Salvador de Jujuy offers a warm and welcoming atmosphere with rich traditions."
+            },
+            {
+                "id": 4,
+                "comment": "The local markets are full of crafts, textiles, and delicious regional foods."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Río Cuarto",
+        "description": "Río Cuarto is a city located in the province of Córdoba, Argentina. It is known as a major agricultural and commercial center in the region. The Río Cuarto, which runs through the city, gives it its name and serves as a natural landmark and recreational spot. Río Cuarto is also an educational and cultural hub, with several universities and institutions that attract students from different parts of the country.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/9d/c4/13/9dc41325846ed3980c87a3e535d9102c.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/b9/b2/72/b9b272b7483943707bdc588ed6dcf642.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/40/25/ba/4025ba0361e3bb2a9a9cad060347b436.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "Parque Sarmiento",
+                "description": "Natural environment for leisure and recreation.",
+                "url": "https://i.pinimg.com/564x/43/69/04/436904b3590dad180c91a7f5e8aeacfc.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Río Cuarto",
+                "description": "It is also known as Río Chocancharava.",
+                "url": "https://i.pinimg.com/564x/23/b9/27/23b927513bcb7ae19ce542c88f5ae923.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "Río Cuarto is a vibrant city with a rich history and a strong agricultural tradition."
+            },
+            {
+                "id": 1,
+                "comment": "The city offers a great mix of urban life and proximity to nature."
+            },
+            {
+                "id": 2,
+                "comment": "A hub of cultural activities with plenty of museums, theaters, and events."
+            },
+            {
+                "id": 3,
+                "comment": "Río Cuarto's lively atmosphere and friendly people make it a great place to visit."
+            },
+            {
+                "id": 4,
+                "comment": "The local cuisine is excellent, with a variety of traditional dishes to try."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Villa General Belgrano",
+        "description": "Villa General Belgrano is a city located in the Calamuchita department, in the province of Córdoba, Argentina. It is a small city with typically Bavarian architecture, originating from its early settlers: German immigrants.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/c5/6d/0b/c56d0b93a18a9fddb59d64006d54313a.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/83/f2/8f/83f28ff61ea4e93e39c05fc01131402d.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/15/30/6b/15306b88da4d8f04ffa785c991386eb2.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "Oktoberfest",
+                "description": "Beer Festival.",
+                "url": "https://i.pinimg.com/564x/cd/7b/0b/cd7b0beaacae3d7ab086a2e81817d4bc.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Centro de la ciudad",
+                "description": "San Martín Avenue and Julio Argentino Roca Avenue, the main streets and pedestrian areas where shops, bars, and restaurants are located.",
+                "url": "https://i.pinimg.com/736x/02/4a/1d/024a1d49331d298c864085159acacc68.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "Villa General Belgrano is a charming town with a unique European feel."
+            },
+            {
+                "id": 1,
+                "comment": "The Oktoberfest here is one of the best in Argentina, full of lively traditions."
+            },
+            {
+                "id": 2,
+                "comment": "Surrounded by beautiful mountains, it’s a perfect spot for a peaceful retreat."
+            },
+            {
+                "id": 3,
+                "comment": "The town’s German architecture and culture make it a truly special destination."
+            },
+            {
+                "id": 4,
+                "comment": "A lovely place to explore with great food, friendly locals, and stunning scenery."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Mendoza",
+        "description": "Mendoza is a city in the Cuyo region of Argentina and is the heart of the Argentine wine area, famous for its Malbecs and other red wines.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/1e/e3/00/1ee300212b3f0820ba2f671407121199.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/b0/ce/4b/b0ce4b5d9bd4c6bf5b65d8fa52381958.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/93/ed/ba/93edba586b797efca7e8ea6ba1d18c9c.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "Parque San Martín",
+                "description": "General San Martín Park is the oldest and main park in the Province of Mendoza.",
+                "url": "https://i.pinimg.com/736x/5e/a9/12/5ea9127fb89bef2dfd6ed81184070843.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Calle Arístides",
+                "description": "Arístides Street is one of the most well-known and visited spots in Mendoza.",
+                "url": "https://i.pinimg.com/564x/8c/c3/35/8cc335b23f36bc38b063e895f40e8af6.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "Mendoza offers breathtaking views of the Andes and world-renowned vineyards."
+            },
+            {
+                "id": 1,
+                "comment": "The wine tours are exceptional, and the Malbec is a must-try."
+            },
+            {
+                "id": 2,
+                "comment": "A vibrant city with a rich cultural heritage and beautiful plazas."
+            },
+            {
+                "id": 3,
+                "comment": "Perfect for adventure lovers with opportunities for hiking, skiing, and more."
+            },
+            {
+                "id": 4,
+                "comment": "Mendoza's blend of urban sophistication and natural beauty is truly unique."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Santa Rosa de Calamuchita",
+        "description": "Santa Rosa is a city in the west of Córdoba province, Argentina, located in the Punilla Valley.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/19/c2/77/19c277ab9fa11c9086943b5804c30f4c.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/fe/20/7d/fe207df278ee6b80b87cb4fda942b67a.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/736x/b2/b9/27/b2b927f4060ed9e68b9a328f1ae356ca.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "Escalera de los Inmigrantes",
+                "description": "The staircase, which started as a shortcut connecting the town center with the higher areas, gained a new identity with the arrival of new settlers. It became associated with the Trucchi family, who built an inn along its path.",
+                "url": "https://i.pinimg.com/564x/38/3b/18/383b1821b8c5b6149abc545cf68a8d68.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Río Santa Rosa",
+                "description": "The landscape is dominated by the clear Santa Rosa River, one of the main tributaries of the Ctalamochita River.",
+                "url": "https://i.pinimg.com/564x/cd/db/da/cddbda9a1e4e66d791ae068673aea844.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "Beautiful landscapes and a peaceful atmosphere, perfect for a relaxing getaway."
+            },
+            {
+                "id": 1,
+                "comment": "The river is stunning, and the town has a charming, welcoming vibe."
+            },
+            {
+                "id": 2,
+                "comment": "A great place to connect with nature and enjoy outdoor activities."
+            },
+            {
+                "id": 3,
+                "comment": "The local food is delicious, and the people are incredibly friendly."
+            },
+            {
+                "id": 4,
+                "comment": "Santa Rosa de Calamuchita is a hidden gem in the heart of Córdoba."
+            }
+        ]
+    }
+]
