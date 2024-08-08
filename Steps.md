@@ -36,9 +36,21 @@
     -   [x]: Incluir informacion sobre la pagina, partes, como recorrer la pagina, que encontraras, proximamente...
 
 -   []: Pendientes:
+
     -   [x]: Modificar la pagina para que todo este en ingles
     -   [x]: Modificar los nombres de los componentes y demas para que todo este en ingles
     -   [x]: Cambiar la fuente por una sin serif
     -   [x]: Corregir los nombres de los atributos className para que todos sean en ingles
     -   []: Aplicarle estilo con Tailwind
     -   []: Aplicarle animaciones con FramerMotion
+
+-   []: README.md:
+
+    -   []: Descripcion del proyecto
+    -   []: Tecnologias que usamos
+    -   []: Diagramas y wireframes
+    -   []: Paleta de colores y fuentes
+    -   []: Inspiracion de paginas anteriores con el estilo
+    -   []: Deploy y link
+    -   []: Posibles cambios en el futuro del proyecto (Migracion a ts, conexion con api, etc)
+    -   []: Nosotros - Integrantes - Descripcion
