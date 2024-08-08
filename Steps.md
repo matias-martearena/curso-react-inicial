@@ -42,6 +42,7 @@
     -   [x]: Cambiar la fuente por una sin serif
     -   [x]: Corregir los nombres de los atributos className para que todos sean en ingles
     -   []: Aplicarle estilo con Tailwind
+    -   []: Modificar la persistencia de datos en el formulario para agregar comentarios
     -   []: Aplicarle animaciones con FramerMotion
 
 -   []: README.md:
