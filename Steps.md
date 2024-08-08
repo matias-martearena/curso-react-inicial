@@ -36,8 +36,9 @@
     -   [x]: Incluir informacion sobre la pagina, partes, como recorrer la pagina, que encontraras, proximamente...
 
 -   []: Pendientes:
-    -   []: Corregir los nombres de los atributos className para que todos sean en ingles
-    -   []: Modificar la pagina para que todo este en ingles
-    -   []: Modificar los nombres de los componentes y demas para que todo este en ingles
+    -   [x]: Modificar la pagina para que todo este en ingles
+    -   [x]: Modificar los nombres de los componentes y demas para que todo este en ingles
+    -   [x]: Cambiar la fuente por una sin serif
+    -   [x]: Corregir los nombres de los atributos className para que todos sean en ingles
     -   []: Aplicarle estilo con Tailwind
     -   []: Aplicarle animaciones con FramerMotion

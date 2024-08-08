@@ -1,61 +1,61 @@
 import PropTypes from 'prop-types'
 import { useState, useEffect } from 'react'
 
-const FormComments = ({ ciudad }) => {
-    // NOTE: Esto despues de cambiaria para consumir datos de una base de datos
-    const [comentarios, setComentarios] = useState(() => {
-        const savedComments = localStorage.getItem('comentarios')
+const FormComments = ({ city }) => {
+    // NOTE: This will be change with database in the future
+    const [comments, setComments] = useState(() => {
+        const savedComments = localStorage.getItem('comments')
         return savedComments ? JSON.parse(savedComments) : []
     })
 
-    const [comentario, setComentario] = useState('')
-    const city = ciudad[0]
+    const [comment, setComment] = useState('')
+    const selectedCity = city[0]
 
     useEffect(() => {
-        localStorage.setItem('comentarios', JSON.stringify(comentarios))
-    }, [comentarios])
+        localStorage.setItem('comments', JSON.stringify(comments))
+    }, [comments])
 
     const handleSubmit = e => {
         e.preventDefault()
-        if (comentario.trim().length >= 3) {
-            const newComment = { id: comentarios.length, comentario }
-            const updatedComentarios = [...comentarios, newComment]
-            setComentarios(updatedComentarios)
-            setComentario('')
+        if (comment.trim().length >= 3) {
+            const newComment = { id: comments.length, comment }
+            const updatedcomments = [...comments, newComment]
+            setComments(updatedcomments)
+            setComment('')
         }
 
-        // Borra los comentarios cuando se introdujeron 5
-        if (comentarios.length >= 5) handleClearComments()
+        // Delete all comments before write 5
+        if (comments.length >= 5) handleClearComments()
     }
 
-    // Para borrar los comentarios en memoria
+    // This is use to delete the comments
     const handleClearComments = () => {
-        setComentarios([])
-        localStorage.removeItem('comentarios')
+        setComments([])
+        localStorage.removeItem('comments')
     }
 
     return (
         <article>
             <form onSubmit={handleSubmit}>
-                <label htmlFor="comentario">
-                    <p>¿Quieres agregar un comentario de la ciudad?</p>
+                <label htmlFor="comment">
+                    <h3>Do you want to add a comment?</h3>
                     <input
                         type="text"
-                        name="comentario"
-                        id="comentario"
-                        placeholder="Escribe tu comentario aqui..."
-                        value={comentario}
-                        onChange={e => setComentario(e.target.value)}
+                        name="comment"
+                        id="comment"
+                        placeholder="Write your comment here..."
+                        value={comment}
+                        onChange={e => setComment(e.target.value)}
                     />
                 </label>
-                <button type="submit">Enviar</button>
+                <button type="submit">Send</button>
             </form>
             <ul>
-                {city.comentarios.map(comentario => (
-                    <li key={comentario.id}>{comentario.comentario}</li>
+                {selectedCity.comments.map(comment => (
+                    <li key={comment.id}>{comment.comment}</li>
                 ))}
-                {comentarios.map(c => (
-                    <li key={c.id}>{c.comentario}</li>
+                {comments.map(c => (
+                    <li key={c.id}>{c.comment}</li>
                 ))}
             </ul>
         </article>
@@ -63,7 +63,7 @@ const FormComments = ({ ciudad }) => {
 }
 
 FormComments.propTypes = {
-    ciudad: PropTypes.arrayOf(PropTypes.object).isRequired
+    city: PropTypes.arrayOf(PropTypes.object).isRequired
 }
 
 export default FormComments

@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types'
 
-const Us = ({ team }) => {
+const Team = ({ team }) => {
     return (
         <section>
             <h2>Meet our team</h2>
@@ -8,15 +8,15 @@ const Us = ({ team }) => {
                 {team.map(person => (
                     <div key={person.id}>
                         <picture>
-                            <img src={person.imagen} alt={`${person.nombres} ${person.apellidos}`} />
+                            <img src={person.image} alt={`${person.names} ${person.surnames}`} />
                         </picture>
                         <p>
-                            {person.nombres} {person.apellidos}
+                            {person.names} {person.surnames}
                         </p>
-                        <p>{person.descripcion}</p>
+                        <p>{person.description}</p>
                         <ul>
                             {person.stack.map(tec => (
-                                <li key={tec.id}>{tec.nombre}</li>
+                                <li key={tec.id}>{tec.name}</li>
                             ))}
                         </ul>
                     </div>
@@ -26,8 +26,8 @@ const Us = ({ team }) => {
     )
 }
 
-Us.propTypes = {
+Team.propTypes = {
     team: PropTypes.arrayOf(PropTypes.object).isRequired
 }
 
-export default Us
+export default Team
