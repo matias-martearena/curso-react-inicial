@@ -4,12 +4,12 @@ Este proyecto es una aplicación web que permite a los usuarios explorar distint
 
 ## Tecnologías utilizadas 🚀
 
-- **React**: Biblioteca de JavaScript para construir interfaces de usuario.
-- **Vite**: Herramienta de construcción y empaquetado rápida para proyectos de React.
-- **Tailwind CSS**: Framework de CSS para estilizar la aplicación.
-- **React Router**: Biblioteca para la navegación entre páginas.
-- **Framer Motion**: Librería para animaciones en React.
-- **CSS Vanilla**: Estilos personalizados aplicados en combinación con Tailwind CSS.
+-   **React**: Biblioteca de JavaScript para construir interfaces de usuario.
+-   **Vite**: Herramienta de construcción y empaquetado rápida para proyectos de React.
+-   **Tailwind CSS**: Framework de CSS para estilizar la aplicación.
+-   **React Router**: Biblioteca para la navegación entre páginas.
+-   **Framer Motion**: Librería para animaciones en React.
+-   **CSS Vanilla**: Estilos personalizados aplicados en combinación con Tailwind CSS.
 
 ## Diagramas y wireframes 📊
 
@@ -49,27 +49,26 @@ Este proyecto es una aplicación web que permite a los usuarios explorar distint
 
 ## Inspiracion de paginas anteriores con el estilo 🌐
 
-- [Expedia](https://www.expedia.com/)
-- [Lonely-Planet](https://www.lonelyplanet.com/)
+-   [Expedia](https://www.expedia.com/)
+-   [Lonely-Planet](https://www.lonelyplanet.com/)
 
 ## Deploy y link
 
 La aplicación está desplegada y disponible en el siguiente enlace:
 
-[Ver Aplicación en Vivo](https://)
+[Ver Aplicación en Vivo](https://travel-ma-chi.vercel.app)
 
 ## Posibles cambios en el futuro del proyecto 🔮
 
-- **Migración a TypeScript**: Considerar el uso de TypeScript para una mayor seguridad de tipo.
-- **Conexión con API**: Integrar una API para obtener datos en tiempo real sobre ciudades y puntos de interés.
-- **Soporte Multilenguaje**: Agregar soporte para múltiples idiomas.
-- **Mejoras en la Experiencia de Usuario**: Implementar nuevas funcionalidades basadas en el feedback de los usuarios.
-- **Integración de mapas interactivos**: Utilizando una API como Google Maps o Leaflet.
-- **Optimización para SEO**: Mejorar la visibilidad en motores de búsqueda.
+-   **Migración a TypeScript**: Considerar el uso de TypeScript para una mayor seguridad de tipo.
+-   **Conexión con API**: Integrar una API para obtener datos en tiempo real sobre ciudades y puntos de interés.
+-   **Soporte Multilenguaje**: Agregar soporte para múltiples idiomas.
+-   **Mejoras en la Experiencia de Usuario**: Implementar nuevas funcionalidades basadas en el feedback de los usuarios.
+-   **Integración de mapas interactivos**: Utilizando una API como Google Maps o Leaflet.
+-   **Optimización para SEO**: Mejorar la visibilidad en motores de búsqueda.
 
 ## Integrantes 👥
 
-Matias Martearena: El host
+Matias Martearena: El host 🧑‍💻
 
-Araceli Escudero: Saliendo un poco de python
-
+Araceli Escudero: Saliendo un poco de python 🐍
