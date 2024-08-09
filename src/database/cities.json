@@ -2,6 +2,7 @@
     {
         "id": 0,
         "name": "San Salvador de Jujuy",
+        "country": "AR",
         "description": "San Salvador de Jujuy is a city in northern Argentina, the head of the Doctor Manuel Belgrano department, and the capital and most populous city of the Jujuy province. Popularly known as the 'Silver Cup,' it is located in a fertile valley at the confluence of the Grande and Xibi Xibi rivers, surrounded by mountains that, to the west, are often covered in snow during winter.",
         "images": [
             {
@@ -57,6 +58,7 @@
     {
         "id": 1,
         "name": "Río Cuarto",
+        "country": "AR",
         "description": "Río Cuarto is a city located in the province of Córdoba, Argentina. It is known as a major agricultural and commercial center in the region. The Río Cuarto, which runs through the city, gives it its name and serves as a natural landmark and recreational spot. Río Cuarto is also an educational and cultural hub, with several universities and institutions that attract students from different parts of the country.",
         "images": [
             {
@@ -112,6 +114,7 @@
     {
         "id": 2,
         "name": "Villa General Belgrano",
+        "country": "AR",
         "description": "Villa General Belgrano is a city located in the Calamuchita department, in the province of Córdoba, Argentina. It is a small city with typically Bavarian architecture, originating from its early settlers: German immigrants.",
         "images": [
             {
@@ -167,6 +170,7 @@
     {
         "id": 3,
         "name": "Mendoza",
+        "country": "AR",
         "description": "Mendoza is a city in the Cuyo region of Argentina and is the heart of the Argentine wine area, famous for its Malbecs and other red wines.",
         "images": [
             {
@@ -222,6 +226,7 @@
     {
         "id": 4,
         "name": "Santa Rosa de Calamuchita",
+        "country": "AR",
         "description": "Santa Rosa is a city in the west of Córdoba province, Argentina, located in the Punilla Valley.",
         "images": [
             {
