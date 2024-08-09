@@ -113,57 +113,57 @@
     },
     {
         "id": 2,
-        "name": "Villa General Belgrano",
+        "name": "San Carlos de Bariloche",
         "country": "AR",
-        "description": "Villa General Belgrano is a city located in the Calamuchita department, in the province of Córdoba, Argentina. It is a small city with typically Bavarian architecture, originating from its early settlers: German immigrants.",
+        "description": "San Carlos de Bariloche is a city in Argentine Patagonia, famous for its mountainous landscapes, crystal-clear lakes, and outdoor activities such as skiing and hiking.",
         "images": [
             {
                 "id": 0,
-                "url": "https://i.pinimg.com/564x/c5/6d/0b/c56d0b93a18a9fddb59d64006d54313a.jpg"
+                "url": "https://i.pinimg.com/736x/d9/dc/db/d9dcdbde568d772ccd1d28c6702e67b3.jpg"
             },
             {
                 "id": 1,
-                "url": "https://i.pinimg.com/564x/83/f2/8f/83f28ff61ea4e93e39c05fc01131402d.jpg"
+                "url": "https://i.pinimg.com/564x/46/90/88/4690883771ad7ed82d17cd74c8301acf.jpg"
             },
             {
                 "id": 2,
-                "url": "https://i.pinimg.com/564x/15/30/6b/15306b88da4d8f04ffa785c991386eb2.jpg"
+                "url": "https://i.pinimg.com/564x/9c/1a/fe/9c1afeb489ccad478fb834660bcc03fd.jpg"
             }
         ],
         "points": [
             {
                 "id": 0,
-                "name": "Oktoberfest",
-                "description": "Beer Festival.",
-                "url": "https://i.pinimg.com/564x/cd/7b/0b/cd7b0beaacae3d7ab086a2e81817d4bc.jpg"
+                "name": "Cerro Catedral",
+                "description": "One of the main ski centers in South America, with stunning views and a variety of slopes for all levels.",
+                "url": "https://i.pinimg.com/564x/05/01/07/05010768c41916fbcac1da2a980f39b8.jpg"
             },
             {
                 "id": 1,
-                "name": "Centro de la ciudad",
-                "description": "San Martín Avenue and Julio Argentino Roca Avenue, the main streets and pedestrian areas where shops, bars, and restaurants are located.",
-                "url": "https://i.pinimg.com/736x/02/4a/1d/024a1d49331d298c864085159acacc68.jpg"
+                "name": "Lago Nahuel Huapi",
+                "description": "A beautiful lake surrounded by mountains, ideal for water activities like boating and fishing.",
+                "url": "https://i.pinimg.com/564x/d1/39/1e/d1391e774beeacc5401ba11463c33a89.jpg"
             }
         ],
         "comments": [
             {
                 "id": 0,
-                "comment": "Villa General Belgrano is a charming town with a unique European feel."
+                "comment": "Cerro Catedral offers some of the best ski slopes in the region."
             },
             {
                 "id": 1,
-                "comment": "The Oktoberfest here is one of the best in Argentina, full of lively traditions."
+                "comment": "Lago Nahuel Huapi is a spectacular place to enjoy tranquility and natural beauty."
             },
             {
                 "id": 2,
-                "comment": "Surrounded by beautiful mountains, it’s a perfect spot for a peaceful retreat."
+                "comment": "Bariloche is a perfect destination for nature lovers and outdoor adventures."
             },
             {
                 "id": 3,
-                "comment": "The town’s German architecture and culture make it a truly special destination."
+                "comment": "The city has a charming atmosphere and is known for its chocolates and craft beers."
             },
             {
                 "id": 4,
-                "comment": "A lovely place to explore with great food, friendly locals, and stunning scenery."
+                "comment": "The views of the mountains and lakes in Bariloche are simply breathtaking."
             }
         ]
     },
@@ -225,57 +225,1177 @@
     },
     {
         "id": 4,
-        "name": "Santa Rosa de Calamuchita",
+        "name": "Buenos Aires",
         "country": "AR",
-        "description": "Santa Rosa is a city in the west of Córdoba province, Argentina, located in the Punilla Valley.",
+        "description": "Buenos Aires, the capital of Argentina, is known for its rich cultural life, vibrant architecture, and influence on fashion and art.",
         "images": [
             {
                 "id": 0,
-                "url": "https://i.pinimg.com/564x/19/c2/77/19c277ab9fa11c9086943b5804c30f4c.jpg"
+                "url": "https://i.pinimg.com/564x/62/f5/ea/62f5eaf7d4834710656d7c8517fb3a3e.jpg"
             },
             {
                 "id": 1,
-                "url": "https://i.pinimg.com/564x/fe/20/7d/fe207df278ee6b80b87cb4fda942b67a.jpg"
+                "url": "https://i.pinimg.com/564x/de/b1/f8/deb1f851beb73a55b28f57c0b7097814.jpg"
             },
             {
                 "id": 2,
-                "url": "https://i.pinimg.com/736x/b2/b9/27/b2b927f4060ed9e68b9a328f1ae356ca.jpg"
+                "url": "https://i.pinimg.com/564x/61/fa/d3/61fad3f8f04d5f6b5ccd06adee9918e0.jpg"
             }
         ],
         "points": [
             {
                 "id": 0,
-                "name": "Escalera de los Inmigrantes",
-                "description": "The staircase, which started as a shortcut connecting the town center with the higher areas, gained a new identity with the arrival of new settlers. It became associated with the Trucchi family, who built an inn along its path.",
-                "url": "https://i.pinimg.com/564x/38/3b/18/383b1821b8c5b6149abc545cf68a8d68.jpg"
+                "name": "Obelisk",
+                "description": "An iconic monument located in the city center, a symbol of Buenos Aires.",
+                "url": "https://i.pinimg.com/564x/a0/73/8f/a0738f5f23a01fcf6cbfac9f0c57a6e8.jpg"
             },
             {
                 "id": 1,
-                "name": "Río Santa Rosa",
-                "description": "The landscape is dominated by the clear Santa Rosa River, one of the main tributaries of the Ctalamochita River.",
-                "url": "https://i.pinimg.com/564x/cd/db/da/cddbda9a1e4e66d791ae068673aea844.jpg"
+                "name": "Caminito",
+                "description": "A famous street in the La Boca neighborhood known for its colorful art and vibrant atmosphere.",
+                "url": "https://i.pinimg.com/564x/aa/36/f6/aa36f6505a663ebced6686d3a6608041.jpg"
             }
         ],
         "comments": [
             {
                 "id": 0,
-                "comment": "Beautiful landscapes and a peaceful atmosphere, perfect for a relaxing getaway."
+                "comment": "The Obelisk is an impressive landmark and an icon of the city."
             },
             {
                 "id": 1,
-                "comment": "The river is stunning, and the town has a charming, welcoming vibe."
+                "comment": "Caminito is a lively and colorful place, ideal for enjoying local art."
             },
             {
                 "id": 2,
-                "comment": "A great place to connect with nature and enjoy outdoor activities."
+                "comment": "The architecture of Buenos Aires is a fascinating mix of European and modern styles."
             },
             {
                 "id": 3,
-                "comment": "The local food is delicious, and the people are incredibly friendly."
+                "comment": "The city offers a rich and diverse cultural experience."
             },
             {
                 "id": 4,
-                "comment": "Santa Rosa de Calamuchita is a hidden gem in the heart of Córdoba."
+                "comment": "Buenos Aires is a vibrant metropolis with a lively nightlife and excellent cuisine."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Sevilla",
+        "country": "ES",
+        "description": "Sevilla is the capital and largest city of the Spanish autonomous community of Andalusia. Known for its rich history, vibrant culture, and stunning architecture.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/88/f5/ef/88f5efc3fa5bd54aebd1aaf383e03a12.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/736x/1a/93/51/1a93517a985b25e471524774bf3b5283.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/3a/44/f5/3a44f50c7bcbb38ef3e9d90bd317df21.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "La Giralda",
+                "description": "A bell tower of the Seville Cathedral and a symbol of the city.",
+                "url": "https://i.pinimg.com/564x/2d/48/ff/2d48ff787694d958e0934798e311076e.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Alcázar of Seville",
+                "description": "A royal palace originally developed by Moorish Muslim kings.",
+                "url": "https://i.pinimg.com/564x/92/43/07/9243079c334d5915f0772abc5002ff59.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "Sevilla's vibrant flamenco culture is unmatched."
+            },
+            {
+                "id": 1,
+                "comment": "The tapas here are simply the best!"
+            },
+            {
+                "id": 2,
+                "comment": "Walking through the historic streets feels like stepping back in time."
+            },
+            {
+                "id": 3,
+                "comment": "The city is a perfect blend of tradition and modernity."
+            },
+            {
+                "id": 4,
+                "comment": "Sevilla's festivals are a must-experience."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Bilbao",
+        "country": "ES",
+        "description": "Bilbao is a city in northern Spain, the largest city in the Basque Country. Known for the Guggenheim Museum and its vibrant cultural scene.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/34/0f/55/340f55ab99901f6d2fd6f8bf369161e7.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/81/1c/d2/811cd2a3b810855add0ff4374b3780a6.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/78/2f/df/782fdf48053b0305b31b179c559d90d8.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "Guggenheim Museum",
+                "description": "A contemporary art museum designed by architect Frank Gehry.",
+                "url": "https://i.pinimg.com/564x/9b/03/66/9b03669fa4599de10d7dcfeb496896a7.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Casco Viejo",
+                "description": "The old town of Bilbao, full of narrow streets and traditional taverns.",
+                "url": "https://i.pinimg.com/564x/43/5d/37/435d378f58f0a6d361df4a8b5ca68b16.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "Bilbao's transformation from an industrial city to a cultural hub is incredible."
+            },
+            {
+                "id": 1,
+                "comment": "The Guggenheim Museum is a masterpiece, both inside and out."
+            },
+            {
+                "id": 2,
+                "comment": "Bilbao is perfect for art lovers and food enthusiasts."
+            },
+            {
+                "id": 3,
+                "comment": "The city's modern architecture is awe-inspiring."
+            },
+            {
+                "id": 4,
+                "comment": "Bilbao's cuisine is rich in flavors and traditions."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Valencia",
+        "country": "ES",
+        "description": "Valencia is a port city on Spain’s southeastern coast, known for its City of Arts and Sciences, the Turia Gardens, and its vibrant festivals like Las Fallas.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://example.com/valencia1.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://example.com/valencia2.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://example.com/valencia3.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "City of Arts and Sciences",
+                "description": "A cultural and architectural complex designed by Santiago Calatrava.",
+                "url": "https://i.pinimg.com/564x/be/98/c2/be98c2cc63a5d4a60fb989dd3e1cd109.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Turia Gardens",
+                "description": "A former riverbed turned into a lush, green park that runs through the city.",
+                "url": "https://i.pinimg.com/564x/c8/a3/4f/c8a34f2430d3715e181511b834c67a1d.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "Valencia is a city where tradition meets the future."
+            },
+            {
+                "id": 1,
+                "comment": "The futuristic architecture of the City of Arts and Sciences is breathtaking."
+            },
+            {
+                "id": 2,
+                "comment": "Valencia's beaches are a perfect place to relax."
+            },
+            {
+                "id": 3,
+                "comment": "The Fallas festival is an experience like no other."
+            },
+            {
+                "id": 4,
+                "comment": "Valencia is a city that offers something for everyone."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Granada",
+        "country": "ES",
+        "description": "Granada is a city in southern Spain’s Andalusia region, known for the Alhambra, a sprawling fortress-palace complex dating to the 9th century.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/55/5b/86/555b86f3a32139dd68965ad52b93a342.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/cd/bf/74/cdbf749d207d12d2da172546e1bfa00a.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/b0/5a/95/b05a95ecf7fd5afeb8eb795ee8224d4e.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "The Alhambra",
+                "description": "A stunning palace and fortress complex with beautiful gardens and historic significance.",
+                "url": "https://i.pinimg.com/564x/32/f3/c0/32f3c05e2208918b713a037857ba1de2.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Sacromonte",
+                "description": "A neighborhood known for its cave houses and flamenco performances.",
+                "url": "https://i.pinimg.com/564x/69/c0/7a/69c07a768fef53e93678a9b43c9d7bed.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "Granada's history is palpable in every corner."
+            },
+            {
+                "id": 1,
+                "comment": "The Alhambra is a true marvel of architecture."
+            },
+            {
+                "id": 2,
+                "comment": "Granada offers a mix of cultures and traditions."
+            },
+            {
+                "id": 3,
+                "comment": "The views from the Alhambra are simply breathtaking."
+            },
+            {
+                "id": 4,
+                "comment": "The tapas culture in Granada is unbeatable."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Córdoba",
+        "country": "ES",
+        "description": "Córdoba is a city in southern Spain, famous for its historic mosque-cathedral, La Mezquita, and its charming patios.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/bc/51/67/bc5167666a4088177cf5477acaf69bad.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/f5/f8/fa/f5f8fa1c3a449a03c6f5fcc36d49eacd.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/c1/27/ff/c127ff6875004d25b097d3d9e1eff386.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "La Mezquita",
+                "description": "A former mosque turned cathedral, one of the most accomplished monuments of Islamic architecture.",
+                "url": "https://i.pinimg.com/564x/d1/9c/74/d19c74b2795c2b9b3b0e33206d4cdca2.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Alcázar de los Reyes Cristianos",
+                "description": "A medieval palace with beautiful gardens and historical significance.",
+                "url": "https://i.pinimg.com/736x/ca/96/45/ca9645e0a470b87f3f2223704fa4d77c.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "Córdoba's patios are a feast for the eyes, especially in spring."
+            },
+            {
+                "id": 1,
+                "comment": "La Mezquita is one of the most impressive structures in the world."
+            },
+            {
+                "id": 2,
+                "comment": "Córdoba is a city that beautifully blends different cultures."
+            },
+            {
+                "id": 3,
+                "comment": "The history of Córdoba is incredibly rich and diverse."
+            },
+            {
+                "id": 4,
+                "comment": "The city is a perfect destination for history and architecture lovers."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Roma",
+        "country": "IT",
+        "description": "Roma, the capital of Italy, is a sprawling, cosmopolitan city with nearly 3,000 years of globally influential art, architecture, and culture on display. Ancient ruins such as the Forum and the Colosseum evoke the power of the former Roman Empire.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/95/0f/c8/950fc854967132fcfc20d69ba7b0efed.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/8f/6a/b6/8f6ab69a434fdd6317eb9ee7ee8afac4.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/ce/13/4d/ce134d67a41633ff4ab1c22f4c6bfcb1.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "Colosseum",
+                "description": "An ancient amphitheater in the center of Rome, known for gladiatorial contests.",
+                "url": "https://i.pinimg.com/564x/d5/90/69/d590697a7d81da250fca58b0c2d45d4f.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Vatican City",
+                "description": "The independent city-state and headquarters of the Roman Catholic Church, home to St. Peter’s Basilica.",
+                "url": "https://i.pinimg.com/564x/99/01/fd/9901fd89a07fb6896cb06d7bbe4a64ca.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "Roma is a city steeped in history and culture."
+            },
+            {
+                "id": 1,
+                "comment": "The Colosseum is an incredible feat of ancient engineering."
+            },
+            {
+                "id": 2,
+                "comment": "Walking through Rome is like stepping back in time."
+            },
+            {
+                "id": 3,
+                "comment": "The food in Rome is as legendary as its history."
+            },
+            {
+                "id": 4,
+                "comment": "The Vatican is a must-see for anyone visiting the city."
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Florencia",
+        "country": "IT",
+        "description": "Florencia, the capital of Italy’s Tuscany region, is home to many masterpieces of Renaissance art and architecture. The most iconic site is the Duomo, a cathedral with a terracotta-tiled dome designed by Brunelleschi and a bell tower by Giotto.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/09/64/3b/09643b41579d190a0f0d3fc6dbec56ef.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/f3/1d/e6/f31de6877dd21072e52beb67489bdd49.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/01/f5/24/01f524a44354b96bf2e7b75fdc6ac15a.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "Uffizi Gallery",
+                "description": "A prominent art museum housing works by Leonardo da Vinci, Botticelli, and Michelangelo.",
+                "url": "https://i.pinimg.com/564x/6a/86/38/6a8638a2b33f229300896168d44b5cd3.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Ponte Vecchio",
+                "description": "A medieval stone bridge noted for its shops built along it.",
+                "url": "https://i.pinimg.com/564x/bc/cb/9e/bccb9ef01cb01120ff4e4d8f1238a94c.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "Florencia is the birthplace of the Renaissance."
+            },
+            {
+                "id": 1,
+                "comment": "The art in the Uffizi Gallery is simply breathtaking."
+            },
+            {
+                "id": 2,
+                "comment": "Walking across the Ponte Vecchio is like stepping into history."
+            },
+            {
+                "id": 3,
+                "comment": "Florencia’s architecture is a feast for the eyes."
+            },
+            {
+                "id": 4,
+                "comment": "The city's art and culture are second to none."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Venecia",
+        "country": "IT",
+        "description": "Venecia, the capital of northern Italy’s Veneto region, is built on more than 100 small islands in a lagoon in the Adriatic Sea. It has no roads, just canals – including the Grand Canal thoroughfare – lined with Renaissance and Gothic palaces.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/56/40/88/564088906a4dedd76a56e75b9cc19876.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/2b/e2/c2/2be2c2aeaf92676df666745732f5f8b8.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/2b/44/75/2b4475d0a19e53c0d680fc17691d8399.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "St. Mark's Basilica",
+                "description": "A stunning cathedral with Byzantine architecture located in St. Mark’s Square.",
+                "url": "https://i.pinimg.com/564x/4b/a5/51/4ba551ab548efc405dd750ef194754bc.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Grand Canal",
+                "description": "The main waterway through Venice, lined with grand buildings.",
+                "url": "https://i.pinimg.com/564x/54/ce/b4/54ceb4f69cb6a71e9d8ea3eee8708084.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "Venecia is a city like no other, with its canals and historic charm."
+            },
+            {
+                "id": 1,
+                "comment": "A gondola ride through the Grand Canal is a must-do."
+            },
+            {
+                "id": 2,
+                "comment": "The architecture in Venecia is simply mesmerizing."
+            },
+            {
+                "id": 3,
+                "comment": "St. Mark’s Basilica is an absolute masterpiece."
+            },
+            {
+                "id": 4,
+                "comment": "Venecia is a city that must be seen to be believed."
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Milán",
+        "country": "IT",
+        "description": "Milán, a metropolis in Italy's northern Lombardy region, is a global capital of fashion and design. Home to the national stock exchange, it’s a financial hub also known for its high-end restaurants and shops.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/9c/37/00/9c3700d53225508246cef9f00b2c10b6.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/a0/0b/84/a00b84063d25f9b565506413706f2b5e.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/40/41/b1/4041b156a283a0eeef76999603d11ae6.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "Duomo di Milano",
+                "description": "A massive Gothic cathedral known for its elaborate facade and intricate spires.",
+                "url": "https://i.pinimg.com/564x/aa/7c/32/aa7c32fcc13cda411929d196cffa46ed.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Galleria Vittorio Emanuele II",
+                "description": "One of the world's oldest shopping malls, housed within a four-story double arcade.",
+                "url": "https://i.pinimg.com/564x/fa/dd/5a/fadd5a4be469878eaf33e1a189d7463a.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "Milán is the heart of Italy’s fashion industry."
+            },
+            {
+                "id": 1,
+                "comment": "The Duomo di Milano is an architectural marvel."
+            },
+            {
+                "id": 2,
+                "comment": "Shopping in the Galleria Vittorio Emanuele II is a luxurious experience."
+            },
+            {
+                "id": 3,
+                "comment": "Milán combines history with modern elegance."
+            },
+            {
+                "id": 4,
+                "comment": "The city's vibrant culture is reflected in its art and fashion."
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Nápoles",
+        "country": "IT",
+        "description": "Nápoles, a city in southern Italy, is the regional capital of Campania. It is known for its rich history, art, culture, and gastronomy, especially as the birthplace of pizza.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/04/08/21/0408218df1f43d64dd985e737eb36fc5.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/05/df/dc/05dfdc2c93dd696c6dc33e30525512c3.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/f7/da/03/f7da03ca33a9ca549da4c78c1ddb4d0b.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "Mount Vesuvius",
+                "description": "An iconic volcano that famously erupted in AD 79, burying the cities of Pompeii and Herculaneum.",
+                "url": "https://i.pinimg.com/564x/35/27/b7/3527b72a5b39fc290b62673e292e28ed.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Naples National Archaeological Museum",
+                "description": "One of the most important archaeological museums in the world, housing a vast collection of Greco-Roman antiquities.",
+                "url": "https://i.pinimg.com/564x/10/19/10/101910521c10e848546b60ad2c3dd830.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "Nápoles is the perfect destination for history enthusiasts."
+            },
+            {
+                "id": 1,
+                "comment": "The view of Mount Vesuvius is both beautiful and humbling."
+            },
+            {
+                "id": 2,
+                "comment": "Nápoles is the birthplace of pizza, and you can taste the tradition in every slice."
+            },
+            {
+                "id": 3,
+                "comment": "The archaeological treasures in Nápoles are unmatched."
+            },
+            {
+                "id": 4,
+                "comment": "Nápoles offers a unique blend of history, culture, and flavor."
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Rio de Janeiro",
+        "country": "BR",
+        "description": "Rio de Janeiro, famous for its vibrant cultural scene and iconic Copacabana Beach, is known for its stunning natural landscapes, the Christ the Redeemer statue, and its Carnival.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/e6/58/ab/e658ab04f503c49179fd76d30b639962.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/3f/ae/48/3fae48a9616ce5f3d7d49c7ac7931717.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/66/7d/fc/667dfc3d418295474e5f8f5201471d9d.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "Christ the Redeemer",
+                "description": "A monumental statue of Jesus Christ atop the Corcovado Mountain, offering panoramic views of the city.",
+                "url": "https://i.pinimg.com/564x/84/20/bb/8420bbc74c51bbf7bc4ff912a6a553a0.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Sugarloaf Mountain",
+                "description": "A striking mountain overlooking the city, accessible by cable car.",
+                "url": "https://i.pinimg.com/564x/fa/72/17/fa7217ee895b86c4331946e8ab65f837.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "Christ the Redeemer is one of the wonders of the modern world."
+            },
+            {
+                "id": 1,
+                "comment": "The views from Sugarloaf Mountain are simply spectacular."
+            },
+            {
+                "id": 2,
+                "comment": "Rio has a unique energy that captivates you from the first moment."
+            },
+            {
+                "id": 3,
+                "comment": "The Carnival in Rio is a vibrant and unforgettable experience."
+            },
+            {
+                "id": 4,
+                "comment": "The beaches in Rio, like Copacabana, are perfect for relaxation."
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "São Paulo",
+        "country": "BR",
+        "description": "São Paulo is Brazil's largest city and an important financial and cultural center in South America, known for its cuisine, nightlife, and cultural events.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/60/b6/62/60b66235acb931149f31f8aa06f68d65.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/61/a3/2a/61a32afe5f757dcb329a64673b48e31d.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/96/ce/83/96ce83c009bf23119215b55c5c4eadc5.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "Avenida Paulista",
+                "description": "One of the city's main avenues, known for its museums, cultural centers, and shops.",
+                "url": "https://i.pinimg.com/564x/5e/f8/3a/5ef83a85be6dc8cdbbdd8e556817ccd4.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Ibirapuera Park",
+                "description": "A large urban park with green spaces, museums, and recreational areas.",
+                "url": "https://i.pinimg.com/564x/3e/26/82/3e26821412da4e986cc0d786804d0f93.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "Avenida Paulista is the cultural heart of São Paulo."
+            },
+            {
+                "id": 1,
+                "comment": "Ibirapuera Park is an oasis in the middle of the city."
+            },
+            {
+                "id": 2,
+                "comment": "São Paulo has an incredible gastronomic scene."
+            },
+            {
+                "id": 3,
+                "comment": "São Paulo's nightlife is vibrant and diverse."
+            },
+            {
+                "id": 4,
+                "comment": "Exploring the city will reveal many surprising corners."
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Salvador",
+        "country": "BR",
+        "description": "Salvador, the capital of the northeastern region of Brazil, is known for its rich African heritage, festivals, and historic old town, Pelourinho.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/29/4e/e4/294ee4224b1874ce285d5fade39b62d0.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/4f/a4/c3/4fa4c39c14c9740b69fa7591a6ba8908.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/24/d2/68/24d268f771218c72d4c858a64d93666c.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "Pelourinho",
+                "description": "A historic district with cobblestone streets and well-preserved colonial buildings.",
+                "url": "https://i.pinimg.com/564x/92/94/7d/92947d7e2ee0b1a1c8e02e91b561bcad.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Church of San Francisco",
+                "description": "A baroque church famous for its opulent gilded interior and historical architecture.",
+                "url": "https://i.pinimg.com/564x/34/3b/38/343b38a46fc69d7d2156bed8f5aba208.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "Pelourinho is a place full of history and life."
+            },
+            {
+                "id": 1,
+                "comment": "The Church of San Francisco is an architectural gem."
+            },
+            {
+                "id": 2,
+                "comment": "Salvador has a unique blend of culture and tradition."
+            },
+            {
+                "id": 3,
+                "comment": "Salvador's Carnival is famous for its energy and rhythm."
+            },
+            {
+                "id": 4,
+                "comment": "Baiana cuisine is delicious and authentic."
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Brasília",
+        "country": "BR",
+        "description": "Brasília, Brazil's federal capital, is known for its modern and planned architecture, designed by Oscar Niemeyer and Lúcio Costa.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/f2/e1/71/f2e1711d05087e2f92d383b761eb0014.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/8d/40/b9/8d40b96a0a368ef0d6c7fd0e736752f0.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/87/4a/d0/874ad0f7791846a5334abc6da9f41169.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "Cathedral of Brasília",
+                "description": "An impressive cathedral with a futuristic design and unique structure.",
+                "url": "https://i.pinimg.com/564x/b3/08/89/b3088941bb5072fe2c472f20c7d0d22f.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Palácio da Alvorada",
+                "description": "The official residence of the President of Brazil, known for its modern design.",
+                "url": "https://i.pinimg.com/564x/00/e3/6e/00e36ef434c1aea6e60760723a2105fd.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "The Cathedral of Brasília is an icon of modern architecture."
+            },
+            {
+                "id": 1,
+                "comment": "The Palácio da Alvorada showcases Niemeyer's futuristic vision."
+            },
+            {
+                "id": 2,
+                "comment": "Brasília has a very interesting urban design."
+            },
+            {
+                "id": 3,
+                "comment": "The city presents a different side of Brazil, with a lot of planning and modernity."
+            },
+            {
+                "id": 4,
+                "comment": "Brasília's architecture is a spectacle in itself."
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Fortaleza",
+        "country": "BR",
+        "description": "Fortaleza, located in Brazil's northeastern region, is known for its beautiful beaches and lively nightlife, as well as its vibrant local culture.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/e6/7d/b0/e67db009fa45f453f52b4f689e944fa9.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/aa/3b/f9/aa3bf918b6776474f5ab3cb6b5715ea4.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/92/12/ed/9212ed579e8e006e85aa9db139194684.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "Praia do Futuro",
+                "description": "One of Fortaleza's most famous beaches, known for its beach bars and relaxed atmosphere.",
+                "url": "https://i.pinimg.com/736x/35/76/b1/3576b1d1e13807ce57f8df95dbf6a96d.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Centro Dragão do Mar de Arte e Cultura",
+                "description": "A cultural center featuring museums, theaters, and a vibrant arts scene.",
+                "url": "https://i.pinimg.com/736x/0a/bd/c7/0abdc7410d2351e18003a9a7dc1ecbf2.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "Praia do Futuro is perfect for enjoying the sun and sea."
+            },
+            {
+                "id": 1,
+                "comment": "The Dragão do Mar is a fascinating cultural center."
+            },
+            {
+                "id": 2,
+                "comment": "Fortaleza has a vibrant nightlife."
+            },
+            {
+                "id": 3,
+                "comment": "The beaches and local culture make Fortaleza an attractive destination."
+            },
+            {
+                "id": 4,
+                "comment": "The atmosphere in Fortaleza is very welcoming and lively."
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Athens",
+        "country": "GR",
+        "description": "Athens, the capital of Greece, is known for its rich history and influence on Western culture. The city is home to iconic landmarks such as the Acropolis and the Parthenon.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/736x/be/01/9a/be019a0c9d48967293b4e2106f1686fd.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/52/fc/46/52fc4640880e2d18eda560e494fd8a4b.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/1f/6e/02/1f6e02210747aa4efe18a4b64d6ac9de.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "Acropolis",
+                "description": "An ancient citadel located on a hill, famous for the Parthenon and other ancient temples.",
+                "url": "https://i.pinimg.com/564x/b9/99/ce/b999cee78d1f6a285a956f2a1775372d.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Parthenon",
+                "description": "A classic temple dedicated to the goddess Athena, situated at the top of the Acropolis.",
+                "url": "https://i.pinimg.com/564x/92/2f/e9/922fe995c9e7ae9c9bb033f8c0388a6e.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "The Acropolis is a must-see for anyone interested in ancient history."
+            },
+            {
+                "id": 1,
+                "comment": "The Parthenon is an architectural masterpiece."
+            },
+            {
+                "id": 2,
+                "comment": "Athens is a city where history comes to life."
+            },
+            {
+                "id": 3,
+                "comment": "Exploring Athens is like walking through a history book."
+            },
+            {
+                "id": 4,
+                "comment": "The vibrant culture and historical sites make Athens a fascinating destination."
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Thessaloniki",
+        "country": "GR",
+        "description": "Thessaloniki, Greece's second-largest city, is known for its rich history, vibrant nightlife, and diverse cultural heritage.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/37/92/8e/37928e67a40e9cd63148b9548ca9a74b.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/de/ae/e9/deaee9a5797d3f9c9f1fad18f3baa8c7.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/8b/f7/05/8bf7057f9d61b0b1ddd23fafb98af581.jpgg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "White Tower",
+                "description": "An iconic symbol of the city, originally a Byzantine tower with panoramic views of Thessaloniki.",
+                "url": "https://i.pinimg.com/564x/9f/1a/4f/9f1a4f606461b3a64a01acc1e8563a06.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Rotunda",
+                "description": "A massive round building originally built as a mausoleum, later converted into a church and mosque.",
+                "url": "https://i.pinimg.com/564x/99/6a/ce/996ace1efe439bf31d9635faf126196b.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "The White Tower offers stunning views of the city."
+            },
+            {
+                "id": 1,
+                "comment": "Thessaloniki has a lively and energetic nightlife."
+            },
+            {
+                "id": 2,
+                "comment": "The city's rich history is reflected in its diverse architecture."
+            },
+            {
+                "id": 3,
+                "comment": "Exploring the Rotunda is like stepping back in time."
+            },
+            {
+                "id": 4,
+                "comment": "Thessaloniki is a blend of modern vibrancy and historical depth."
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Santorini",
+        "country": "GR",
+        "description": "Santorini, an island in the Aegean Sea, is famous for its stunning sunsets, white-washed buildings, and beautiful beaches.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/4f/56/09/4f56091f815f2339e7a3d1033844f65a.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/67/39/9c/67399c63533dd5d4a07840fe7cf179c8.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/736x/cc/92/67/cc926732acd183df5c712953cbb27de1.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "Oia",
+                "description": "A picturesque village known for its stunning sunsets and white-washed buildings.",
+                "url": "https://i.pinimg.com/564x/8d/e3/fb/8de3fb071bea05c9775abbbc485feae8.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Fira",
+                "description": "The island's bustling capital with vibrant shops, restaurants, and panoramic views.",
+                "url": "https://i.pinimg.com/564x/02/9f/48/029f480055c88882fc1bd1f7ee9cda1d.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "The sunsets in Oia are absolutely breathtaking."
+            },
+            {
+                "id": 1,
+                "comment": "Fira is a lively hub with incredible views of the caldera."
+            },
+            {
+                "id": 2,
+                "comment": "Santorini's unique architecture and scenery make it a dream destination."
+            },
+            {
+                "id": 3,
+                "comment": "The island's beaches are perfect for relaxation and stunning views."
+            },
+            {
+                "id": 4,
+                "comment": "Santorini's charm and beauty are unforgettable."
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Mykonos",
+        "country": "GR",
+        "description": "Mykonos is a popular Greek island known for its vibrant nightlife, beautiful beaches, and charming white-washed architecture.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/20/21/5b/20215b5ce5611e7e63bb3671d57ff995.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/564x/00/b2/2a/00b22a9012f2921715e92825c886e6fb.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/e3/0e/4e/e30e4e272ee8337a65948777ef3ecdc8.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "Mykonos Town",
+                "description": "The island's main town, known for its narrow streets, vibrant nightlife, and traditional architecture.",
+                "url": "https://i.pinimg.com/564x/74/9a/e5/749ae58fb3ed5b7338231d82c72f3a6e.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Paradise Beach",
+                "description": "A famous beach known for its lively atmosphere and beach parties.",
+                "url": "https://i.pinimg.com/564x/1f/a3/ab/1fa3abe1a9750baffc01261018e568aa.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "Mykonos Town is a maze of charming alleys and vibrant shops."
+            },
+            {
+                "id": 1,
+                "comment": "Paradise Beach is the perfect spot for sunbathing and partying."
+            },
+            {
+                "id": 2,
+                "comment": "The nightlife in Mykonos is legendary and never disappoints."
+            },
+            {
+                "id": 3,
+                "comment": "The island's unique charm makes it a must-visit destination."
+            },
+            {
+                "id": 4,
+                "comment": "Mykonos offers an unforgettable blend of relaxation and excitement."
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Crete",
+        "country": "GR",
+        "description": "Crete, the largest Greek island, is known for its diverse landscapes, ancient ruins, and rich history.",
+        "images": [
+            {
+                "id": 0,
+                "url": "https://i.pinimg.com/564x/bd/5e/52/bd5e52045d9411184069d9ffae8332f2.jpg"
+            },
+            {
+                "id": 1,
+                "url": "https://i.pinimg.com/736x/98/94/39/9894398251c977efa8d9f8da73dd66fe.jpg"
+            },
+            {
+                "id": 2,
+                "url": "https://i.pinimg.com/564x/cf/71/83/cf71836b4ff98cdaa8efcc393cd15e80.jpg"
+            }
+        ],
+        "points": [
+            {
+                "id": 0,
+                "name": "Knossos Palace",
+                "description": "An ancient Minoan palace with impressive archaeological ruins and frescoes.",
+                "url": "https://i.pinimg.com/564x/d8/08/95/d80895e19cc42ef4cf2a6bcb679d4080.jpg"
+            },
+            {
+                "id": 1,
+                "name": "Samaria Gorge",
+                "description": "A stunning natural gorge offering scenic hiking trails and dramatic landscapes.",
+                "url": "https://i.pinimg.com/564x/1d/20/64/1d20641957eaf01a224d59fab206ff4a.jpg"
+            }
+        ],
+        "comments": [
+            {
+                "id": 0,
+                "comment": "The Knossos Palace offers a fascinating glimpse into ancient Minoan civilization."
+            },
+            {
+                "id": 1,
+                "comment": "Hiking through Samaria Gorge is a breathtaking experience."
+            },
+            {
+                "id": 2,
+                "comment": "Crete's landscapes are diverse and beautiful."
+            },
+            {
+                "id": 3,
+                "comment": "The island's rich history and culture make it a captivating destination."
+            },
+            {
+                "id": 4,
+                "comment": "Crete's combination of beaches, mountains, and historical sites is truly special."
             }
         ]
     }
