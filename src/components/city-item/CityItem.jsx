@@ -13,21 +13,23 @@ const CityItem = ({ cities }) => {
         <section>
             <Header />
             {city.map(city => (
-                <div key={city.id}>
-                    <h1>{city.name}</h1>
-                    <p>{city.description}</p>
-                    <picture>
+                <div className="city-detail-contailer" key={city.id}>
+                    <h1 className="city-detail-name">{city.name}</h1>
+                    <p className="city-detail-description">{city.description}</p>
+                    <picture className="city-detail-img-container">
                         {city.images.map(img => (
-                            <img key={img.id} src={img.url} alt={`Foto con id: ${img.id}`} />
+                            <img className="city-detail-img" key={img.id} src={img.url} alt={`Foto con id: ${img.id}`} />
                         ))}
                     </picture>
-                    <h2>Points of interest</h2>
-                    <picture>
+                    <h2 className="city-detail-subtitle">Points of interest</h2>
+                    <picture className="city-detail-img-container">
                         {city.points.map(pi => (
-                            <article key={pi.id}>
-                                <h3>{pi.name}</h3>
-                                <p>{pi.description}</p>
-                                <img src={pi.url} alt={`Point of interest with id: ${pi.id}`} />
+                            <article className="point-container" key={pi.id}>
+                                <div className="point-info-container">
+                                    <h3 className="point-name">{pi.name}</h3>
+                                    <p className="point-description">{pi.description}</p>
+                                </div>
+                                <img className="point-img" src={pi.url} alt={`Point of interest with id: ${pi.id}`} />
                             </article>
                         ))}
                     </picture>

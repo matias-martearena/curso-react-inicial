@@ -57,9 +57,9 @@
     },
     {
         "id": 1,
-        "name": "Río Cuarto",
+        "name": "Rio Cuarto",
         "country": "AR",
-        "description": "Río Cuarto is a city located in the province of Córdoba, Argentina. It is known as a major agricultural and commercial center in the region. The Río Cuarto, which runs through the city, gives it its name and serves as a natural landmark and recreational spot. Río Cuarto is also an educational and cultural hub, with several universities and institutions that attract students from different parts of the country.",
+        "description": "Rio Cuarto is a city located in the province of Cordoba, Argentina. It is known as a major agricultural and commercial center in the region. The Rio Cuarto, which runs through the city, gives it its name and serves as a natural landmark and recreational spot. Rio Cuarto is also an educational and cultural hub, with several universities and institutions that attract students from different parts of the country.",
         "images": [
             {
                 "id": 0,
@@ -83,15 +83,15 @@
             },
             {
                 "id": 1,
-                "name": "Río Cuarto",
-                "description": "It is also known as Río Chocancharava.",
+                "name": "Rio Cuarto",
+                "description": "It is also known as Rio Chocancharava.",
                 "url": "https://i.pinimg.com/564x/23/b9/27/23b927513bcb7ae19ce542c88f5ae923.jpg"
             }
         ],
         "comments": [
             {
                 "id": 0,
-                "comment": "Río Cuarto is a vibrant city with a rich history and a strong agricultural tradition."
+                "comment": "Rio Cuarto is a vibrant city with a rich history and a strong agricultural tradition."
             },
             {
                 "id": 1,
@@ -103,7 +103,7 @@
             },
             {
                 "id": 3,
-                "comment": "Río Cuarto's lively atmosphere and friendly people make it a great place to visit."
+                "comment": "Rio Cuarto's lively atmosphere and friendly people make it a great place to visit."
             },
             {
                 "id": 4,
@@ -189,14 +189,14 @@
         "points": [
             {
                 "id": 0,
-                "name": "Parque San Martín",
-                "description": "General San Martín Park is the oldest and main park in the Province of Mendoza.",
+                "name": "Parque San Martin",
+                "description": "General San Martin Park is the oldest and main park in the Province of Mendoza.",
                 "url": "https://i.pinimg.com/736x/5e/a9/12/5ea9127fb89bef2dfd6ed81184070843.jpg"
             },
             {
                 "id": 1,
-                "name": "Calle Arístides",
-                "description": "Arístides Street is one of the most well-known and visited spots in Mendoza.",
+                "name": "Calle Aristides",
+                "description": "Aristides Street is one of the most well-known and visited spots in Mendoza.",
                 "url": "https://i.pinimg.com/564x/8c/c3/35/8cc335b23f36bc38b063e895f40e8af6.jpg"
             }
         ],
@@ -505,9 +505,9 @@
     },
     {
         "id": 9,
-        "name": "Córdoba",
+        "name": "Cordoba",
         "country": "ES",
-        "description": "Córdoba is a city in southern Spain, famous for its historic mosque-cathedral, La Mezquita, and its charming patios.",
+        "description": "Cordoba is a city in southern Spain, famous for its historic mosque-cathedral, La Mezquita, and its charming patios.",
         "images": [
             {
                 "id": 0,
@@ -539,7 +539,7 @@
         "comments": [
             {
                 "id": 0,
-                "comment": "Córdoba's patios are a feast for the eyes, especially in spring."
+                "comment": "Cordoba's patios are a feast for the eyes, especially in spring."
             },
             {
                 "id": 1,
@@ -547,11 +547,11 @@
             },
             {
                 "id": 2,
-                "comment": "Córdoba is a city that beautifully blends different cultures."
+                "comment": "Cordoba is a city that beautifully blends different cultures."
             },
             {
                 "id": 3,
-                "comment": "The history of Córdoba is incredibly rich and diverse."
+                "comment": "The history of Cordoba is incredibly rich and diverse."
             },
             {
                 "id": 4,
@@ -1009,9 +1009,9 @@
     },
     {
         "id": 18,
-        "name": "Brasília",
+        "name": "Brasilia",
         "country": "BR",
-        "description": "Brasília, Brazil's federal capital, is known for its modern and planned architecture, designed by Oscar Niemeyer and Lúcio Costa.",
+        "description": "Brasilia, Brazil's federal capital, is known for its modern and planned architecture, designed by Oscar Niemeyer and Lúcio Costa.",
         "images": [
             {
                 "id": 0,
@@ -1029,7 +1029,7 @@
         "points": [
             {
                 "id": 0,
-                "name": "Cathedral of Brasília",
+                "name": "Cathedral of Brasilia",
                 "description": "An impressive cathedral with a futuristic design and unique structure.",
                 "url": "https://i.pinimg.com/564x/b3/08/89/b3088941bb5072fe2c472f20c7d0d22f.jpg"
             },
@@ -1043,7 +1043,7 @@
         "comments": [
             {
                 "id": 0,
-                "comment": "The Cathedral of Brasília is an icon of modern architecture."
+                "comment": "The Cathedral of Brasilia is an icon of modern architecture."
             },
             {
                 "id": 1,
@@ -1051,7 +1051,7 @@
             },
             {
                 "id": 2,
-                "comment": "Brasília has a very interesting urban design."
+                "comment": "Brasilia has a very interesting urban design."
             },
             {
                 "id": 3,
@@ -1059,7 +1059,7 @@
             },
             {
                 "id": 4,
-                "comment": "Brasília's architecture is a spectacle in itself."
+                "comment": "Brasilia's architecture is a spectacle in itself."
             }
         ]
     },
