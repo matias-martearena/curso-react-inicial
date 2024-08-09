@@ -1,53 +1,75 @@
-# Aplicacion de viajes en React JS - Introduccion a react js UTN
+## Descripción del proyecto 🌍
 
-## Consigna
+Este proyecto es una aplicación web que permite a los usuarios explorar distintas ciudades turísticas de muchos países del mundo. La aplicación ofrece una experiencia interactiva permitiendo la búsqueda de ciudades, ver detalles de su descripción y puntos de interés para visitar. También permite añadir comentarios sobre cada lugar visitado. Como parte del proyecto, se creó un archivo JSON que contiene los datos de las ciudades. Este archivo se utiliza para alimentar la aplicación con la información necesaria sobre cada ciudad.
 
-Desarrollen una aplicación web que permita a los usuarios explorar destinos turísticos virtuales.
+## Tecnologías utilizadas 🚀
 
-La aplicación debe ofrecer una experiencia interactiva para explorar diferentes ciudades, ver detalles
-sobre ellas y añadir comentarios sobre cada lugar visitado.
+- **React**: Biblioteca de JavaScript para construir interfaces de usuario.
+- **Vite**: Herramienta de construcción y empaquetado rápida para proyectos de React.
+- **Tailwind CSS**: Framework de CSS para estilizar la aplicación.
+- **React Router**: Biblioteca para la navegación entre páginas.
+- **Framer Motion**: Librería para animaciones en React.
+- **CSS Vanilla**: Estilos personalizados aplicados en combinación con Tailwind CSS.
 
-## Requisitos
+## Diagramas y wireframes 📊
 
-    1. Estructura de la Aplicación
+![Diagrama en papel de la página de inicio](./public/wireframe/home-page-paper-diagram.jpg)
 
-        - Inicio: Página principal con una lista de ciudades disponibles para explorar.
-        - Detalles de la Ciudad: Página que muestra detalles sobre una ciudad seleccionada, incluyendo imágenes, una descripción y una lista de puntos de interés.
-        - Comentarios: Página donde los usuarios pueden agregar y ver comentarios sobre las ciudades que han visitado.
-        - Acerca de: Página con información sobre el equipo de desarrollo y la aplicación.
+![Diagrama en papel de la página de inicio (2)](./public/wireframe/home-page-paper-diagram-2.jpg)
 
-    2. Componentes Requeridos
+![Diagrama de detalle de ciudad](./public/wireframe/city-detail-diagram.png)
 
-        - CityList: Componente que muestra una lista de ciudades. Debe recibir una lista de ciudades como props desde el componente principal.
-        - CityItem: Componente que representa una ciudad individual en la lista. Debe recibir los datos de la ciudad y una función para manejar la selección de la ciudad como props.
-        - CityDetails: Componente que muestra detalles de la ciudad seleccionada, incluyendo una descripción, imágenes y una lista de puntos de interés. Debe recibir los datos de la ciudad como props y utilizar useState para manejar la información mostrada.
-        - CommentForm: Componente que incluye un formulario para agregar nuevos
-        comentarios sobre las ciudades. Debe manejar el estado del formulario usando
-        useState y llamar a una función proporcionada por el componente padre para
-        agregar el comentario.
-        - CommentList: Componente que muestra una lista de comentarios para una ciudad
-        específica. Debe recibir los comentarios como props.
-        - Header: Componente que contiene la navegación entre las diferentes páginas.
-        - Footer: Componente para información adicional como derechos de autor.
+![Diagrama de componentes](./public/wireframe/components-diagram.png)
 
-    3. Funcionalidades
+![Diagrama de la página de inicio](./public/wireframe/home-page-diagram.png)
 
-        - Explorar Ciudades: Los usuarios pueden ver una lista de ciudades y seleccionar una para explorar más a fondo.
-        - Detalles de la Ciudad: Al seleccionar una ciudad, los usuarios deben ser dirigidos a una página con detalles completos sobre la ciudad.
-        - Agregar Comentarios: Los usuarios pueden añadir comentarios sobre las ciudades visitadas y ver comentarios de otros usuarios.
-        - Navegación: Utilizar React Router para la navegación entre las páginas de Inicio, Detalles de la Ciudad, Comentarios y Acerca de.
-        - Estado de Comentarios: Utilizar useState para manejar el estado de los comentarios y la información de la ciudad.
+![Diagrama de la lista de ciudades](./public/wireframe/list-of-cities-diagram.png)
 
-    4. Requisitos Técnicos
+![Diagrama de página](./public/wireframe/page-diagram.png)
 
-        - Uso de Props: Asegúrate de pasar datos entre componentes usando props. Por ejemplo, pasar la lista de ciudades al componente CityList y los detalles de la ciudad al componente CityDetails.
-        - Uso de useState: Utiliza useState para manejar el estado en componentes como CityDetails y CommentForm.
-        - React Router: Implementa React Router para gestionar la navegación entre las diferentes páginas.
+## Paleta de colores y fuentes 🎨
 
-## Entrega
+```css
+--font-color: #282121;
+--background-color: #ebd5b8;
 
-    ● Fecha de Entrega: 12 de agosto.
-    ● Cómo Entregar: Suban el proyecto a la plataforma de campus y asegúrense de incluir toda
-    la documentación necesaria.
+--palete-1-1: #332a1a;
+--palete-1-2: #7c5b41;
+--palete-1-3: #efdcd3;
+--palete-1-4: #aa574b;
+--palete-1-5: #541c13;
+--palete-1-6: #eae5d9;
 
----
+--palete-2-1: #ebd5b8;
+--palete-2-2: #efbc9c;
+--palete-2-3: #ea572a;
+--palete-2-4: #0b4030;
+--palete-2-5: #e39828;
+```
+
+## Inspiracion de paginas anteriores con el estilo 🌐
+
+- [Expedia](https://www.expedia.com/)
+- [Lonely-Planet](https://www.lonelyplanet.com/)
+
+## Deploy y link
+
+La aplicación está desplegada y disponible en el siguiente enlace:
+
+[Ver Aplicación en Vivo](https://)
+
+## Posibles cambios en el futuro del proyecto 🔮
+
+- **Migración a TypeScript**: Considerar el uso de TypeScript para una mayor seguridad de tipo.
+- **Conexión con API**: Integrar una API para obtener datos en tiempo real sobre ciudades y puntos de interés.
+- **Soporte Multilenguaje**: Agregar soporte para múltiples idiomas.
+- **Mejoras en la Experiencia de Usuario**: Implementar nuevas funcionalidades basadas en el feedback de los usuarios.
+- **Integración de mapas interactivos**: Utilizando una API como Google Maps o Leaflet.
+- **Optimización para SEO**: Mejorar la visibilidad en motores de búsqueda.
+
+## Integrantes 👥
+
+Matias Martearena: El host
+
+Araceli Escudero: Saliendo un poco de python
+
