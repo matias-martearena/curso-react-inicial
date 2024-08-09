@@ -15,17 +15,18 @@ const CityList = ({ cities }) => {
     return (
         <section>
             <Header />
-            <h1>Travel MA</h1>
             <Filter name={findName} onFindName={handleFindName} />
             <ul>
                 {filteredCities.map(city => (
-                    <Link key={city.id} to={`/city-list/${city.id}`}>
-                        <li>
-                            <div>
-                                <p>{city.country}</p>
+                    <Link className="cities-list" key={city.id} to={`/city-list/${city.id}`}>
+                        <li className="city-container">
+                            <div className="city-info-container">
+                                <div className="city-country-container">
+                                    <p className="city-country">{city.country}</p>
+                                </div>
+                                <h3 className="city-name">{city.name}</h3>
                             </div>
-                            <h3>{city.name}</h3>
-                            <p>{city.description}</p>
+                            <p className="city-description">{city.description}</p>
                         </li>
                     </Link>
                 ))}
