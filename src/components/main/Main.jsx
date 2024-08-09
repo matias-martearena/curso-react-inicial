@@ -6,7 +6,7 @@ import Team from '../team/Team'
 const Main = ({ team }) => {
     return (
         <main>
-            <div>
+            <div className="main-container">
                 <About />
                 <Team team={team} />
             </div>

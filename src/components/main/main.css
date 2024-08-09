@@ -1,0 +1,7 @@
+@media (width > 1000px) {
+    .main-container {
+        display: flex;
+        align-items: self-start;
+        justify-content: center;
+    }
+}
